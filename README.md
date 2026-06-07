@@ -1,7 +1,7 @@
 # Oven_management_system_App
 It is a app that is build in basic form just to remot monitoring and controling of Oven system
 Authentication login so only authorised person caan get acess of acessesible things
-<img width="547" height="1151" alt="image" src="https://github.com/user-attachments/assets/605ac57c-7f71-4e0e-80d6-b8bdbfb2aa67" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/605ac57c-7f71-4e0e-80d6-b8bdbfb2aa67" />
 Dashboard:-
 <img width="523" height="1129" alt="image" src="https://github.com/user-attachments/assets/e744f0cd-b70c-470f-b20c-395567bf380b" />
 If you are Super_Admin then you get accesses of:-
